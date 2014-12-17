@@ -147,6 +147,7 @@
 
 
 (provide 'init)
+(set-face-attribute 'default nil :font "consolas-11:weight=normal")
 
 ;; Local Variables:
 ;; coding: utf-8
